@@ -11,6 +11,12 @@
 
 ---
 
+## one linear installation method
+``` bash
+curl -sSL -o proot https://github.com/jimkardy/alpine_proot_termux/releases/latest/download/proot.sh && chmod +x proot.sh && ./proot.sh
+
+```
+
 ## What is this?
 
 `alpine_proot.sh` is a single script that turns Termux into a tiny Alpine
